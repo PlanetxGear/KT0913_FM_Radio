@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Temp\20231022_KT0913_Digital_Radio\KICAD\KT0913_Digital_Radio\KT0913_Digital_Radio.kicad_sch</source>
+    <date>2024/01/03 18:51:41</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>KT0913_Digital_Radio</title>
+        <company/>
+        <rev>0.1</rev>
+        <date>2023-10-22</date>
+        <source>KT0913_Digital_Radio.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36450348-daa5-4d27-90ee-812046c34c36</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16bb017d-6b23-40db-8b11-b4e394390108</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe3aba1f-6239-4c66-b338-67e05395206b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e42bf092-328a-464c-8c71-0cca7857925b</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>553b67c6-3da5-45e5-9b98-ccec7e1942c2</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>22pF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c7516b4-34a5-48db-8a5d-20e94ee192ac</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>22pF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56c5c48b-1ec5-43c5-b144-5a11310702c0</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7548c40-b4fd-42b7-8527-eaa283f9ef56</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28327a55-1441-4f02-bc55-8a6f5abee15d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10pF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c993ecd2-49dc-4036-bc92-7abadc22d183</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c103e40-6b39-44eb-a8ab-fe52bb38971f</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ba8b252-ff32-48fd-a93e-65c98d61bbd5</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>lib:C2_MU5mm</footprint>
+      <libsource lib="my_lib" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1988616a-9dfa-4d9e-ad44-2676b6c99651</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>CN-POWER</value>
+      <footprint>lib:TERMINAL_2P_POWER</footprint>
+      <libsource lib="my_lib" part="CN-POWER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7260a33-03b8-4648-8957-e5ce4455edb9</tstamps>
+    </comp>
+    <comp ref="CN2">
+      <value>CN-ICSP</value>
+      <footprint>lib:PINHEAD1-PICkit_ICSP</footprint>
+      <libsource lib="my_lib" part="CN-ICSP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdf11841-70d9-415f-b1ab-93473aac76cd</tstamps>
+    </comp>
+    <comp ref="CP1">
+      <value>10uF</value>
+      <footprint>lib:CP2_10mm</footprint>
+      <libsource lib="my_lib" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e040d95-8f27-441e-b538-69ec2d252dd7</tstamps>
+    </comp>
+    <comp ref="CP2">
+      <value>10uF</value>
+      <footprint>lib:CP2_10mm</footprint>
+      <libsource lib="my_lib" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f7ca8ed-6f21-4b7e-9d74-23a8110ebfa5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>MJ-352W-C/AJ-1780
+</value>
+      <footprint>lib:JACK_EarPhone_MJ-352W-C</footprint>
+      <libsource lib="my_lib" part="Jack_EarPhone" description="3.5mm stereo mini jack with switch MJ-352W-C, AJ-1780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <property name="ki_description" value="3.5mm stereo mini jack with switch MJ-352W-C, AJ-1780"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78651983-7f99-472e-982a-b79268148a02</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>47uH</value>
+      <footprint>lib:L4_MU10mm</footprint>
+      <libsource lib="my_lib" part="L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d224608-5408-4374-bdef-4a8e163ec75a</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>47uH</value>
+      <footprint>lib:L4_MU10mm</footprint>
+      <libsource lib="my_lib" part="L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f0fa6b-76e4-4a51-8c3e-f22058e3b722</tstamps>
+    </comp>
+    <comp ref="PAD1">
+      <value>PAD</value>
+      <footprint>lib:PAD3mmX5mm</footprint>
+      <libsource lib="my_lib" part="PAD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85d1f4ec-e273-41a1-861f-3b15340f97c3</tstamps>
+    </comp>
+    <comp ref="PAD2">
+      <value>PAD</value>
+      <footprint>lib:PAD3mmX5mm</footprint>
+      <libsource lib="my_lib" part="PAD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>187503e8-139c-4c68-9afb-35c1a81f9845</tstamps>
+    </comp>
+    <comp ref="PAD3">
+      <value>PAD</value>
+      <footprint>lib:PAD3mmX5mm</footprint>
+      <libsource lib="my_lib" part="PAD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54f64da6-223c-4c9d-9455-bfcb80183e08</tstamps>
+    </comp>
+    <comp ref="PAD4">
+      <value>PAD</value>
+      <footprint>lib:PAD3mmX5mm</footprint>
+      <libsource lib="my_lib" part="PAD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dcbe36b-9fd3-4a83-9cf2-5f846afeec70</tstamps>
+    </comp>
+    <comp ref="PAD5">
+      <value>ANT</value>
+      <footprint>lib:PAD1.6mmX3m</footprint>
+      <libsource lib="my_lib" part="ANT" description="Antenna symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <property name="ki_description" value="Antenna symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7fd766b-e066-484b-93f4-d32b3d837ddb</tstamps>
+    </comp>
+    <comp ref="PAD6">
+      <value>5.0v</value>
+      <footprint>lib:PAD1.6mmX3m</footprint>
+      <libsource lib="my_lib" part="CN-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d591215-ca50-430c-b7c9-1c8aff2eb14f</tstamps>
+    </comp>
+    <comp ref="PAD7">
+      <value>3.3v</value>
+      <footprint>lib:PAD1.6mmX3m</footprint>
+      <libsource lib="my_lib" part="CN-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daac16eb-4ad2-4650-a9b9-e82d0c946e70</tstamps>
+    </comp>
+    <comp ref="PAD8">
+      <value>GND</value>
+      <footprint>lib:PAD1.6mmX3m</footprint>
+      <libsource lib="my_lib" part="CN-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a502cff1-9314-4fcf-9d9a-8e0e12664944</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_PMOS_GSD</value>
+      <footprint>lib:SOT-23-3_MU_Handsoldering</footprint>
+      <libsource lib="my_lib" part="Q_PMOS_GSD" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cfbf89d-84de-4963-a8a2-ad8b667823b0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e361b85-4edb-4ce0-b8e7-c4be4b8fe2cd</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ceb8f72-571f-4749-a2ef-8d9de1776a4d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edee1ffb-4b9f-49ae-b0a2-730f35d97ab2</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>47k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>624fb9ac-1cbd-402a-8be9-d104f1c93939</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0b0d9b0-5949-41ac-b7c1-f4da1f5994e9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2be5319-fc5f-4b42-bf92-2ea6cae3e9e8</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>33k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8851bf7-b99d-4927-8128-6ebefba0b8b2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09c4209c-40bc-4592-bdbd-b96ff2157d1c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b81b8da0-65c5-487d-a90f-f5083aa6649e</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5216c5db-c351-4990-8cc5-c8e70851c6d7</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>284a6512-bd41-403c-a220-729c12021a42</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c643f750-ecbe-4062-9eca-4b99712dda0d</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b076b859-de2e-4ef4-a796-4bf94b01fd20</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>lib:R4_MU8mm</footprint>
+      <libsource lib="my_lib" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f29a0809-d601-47dc-aa80-fe6ccabbd632</tstamps>
+    </comp>
+    <comp ref="SP1">
+      <value>SPEAKER</value>
+      <footprint>lib:TERMINAL_2P</footprint>
+      <libsource lib="my_lib" part="SPEAKER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53036630-8928-4a98-8e60-e6b078bfb816</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Ear Phon ANT point</value>
+      <footprint>lib:SW_2MS1-T1-B4-VS2-Q-E-S</footprint>
+      <libsource lib="my_lib" part="SW_2MS1-T1-B4-VS2-Q-E-S" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39f9c306-d3b3-4047-8dff-0c3b01f298a2</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH_2</value>
+      <footprint>lib:SW_PUSH-6mm_AK</footprint>
+      <libsource lib="my_lib" part="SW_PUSH_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9882f2a8-00cb-47b3-907a-0ef9612f3fd0</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW1_mode</value>
+      <footprint>lib:SW_PUSH-6mm_AK</footprint>
+      <libsource lib="my_lib" part="SW_PUSH_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e8a42f4-0810-47ef-b6df-dbd5b1360c2a</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW2_up</value>
+      <footprint>lib:SW_PUSH-6mm_AK</footprint>
+      <libsource lib="my_lib" part="SW_PUSH_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1321b8d3-13d7-418e-b360-f3e162eec51b</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW3_down</value>
+      <footprint>lib:SW_PUSH-6mm_AK</footprint>
+      <libsource lib="my_lib" part="SW_PUSH_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9717d3f-03b6-4f56-a5a2-939100b964e0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>NJU72060</value>
+      <footprint>lib:SOP-8_6x5mm_Pitch1.27mm</footprint>
+      <libsource lib="my_lib" part="NJU72060" description="Audio amplifier, mono, 0.5W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <property name="ki_description" value="Audio amplifier, mono, 0.5W"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03e88340-4e08-41a6-91c0-7163d6587664</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>NJW4183U3-33B</value>
+      <footprint>lib:SOT-89-3_MU_Handsoldering</footprint>
+      <libsource lib="my_lib" part="NJW4183U3-33B" description="Power Regulator"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <property name="ki_description" value="Power Regulator"/>
+      <property name="ki_keywords" value="3.3V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bfa7883-240e-44ba-a1fa-6f2f9d9a40bd</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>KT0913</value>
+      <footprint>lib:SSOP-16_MU_3.9x4.9mm_P0.635mm</footprint>
+      <libsource lib="my_lib" part="KT0913" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2c0b54e-386a-4896-a28e-614ed9813794</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>PIC16F18326</value>
+      <footprint>lib:DIP-14_300_MU</footprint>
+      <libsource lib="my_lib" part="PIC16F18326" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3e0e6d5-80c9-4ea5-aecd-f81017d52b52</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>AQM1602Y-FLW-FBW</value>
+      <footprint>lib:LCD_AQM1602Y-FLW-FBW</footprint>
+      <libsource lib="my_lib" part="LCD_I2C_AQM1602Y-FLW-FBW" description="Akizuki LCD BackLight 16character x 2line, 41.2mm x 23.07mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <property name="ki_description" value="Akizuki LCD BackLight 16character x 2line, 41.2mm x 23.07mm"/>
+      <property name="ki_keywords" value="LCD, AQM1602Y"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>361f3ffa-b41d-437c-9b12-08a9231a7ed8</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>32.78kHz</value>
+      <footprint>lib:X_TAL_VT200</footprint>
+      <libsource lib="my_lib" part="Crystal" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KT0913_Digital_Radio.kicad_sch"/>
+      <property name="ki_keywords" value="Xtal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c6e2541-8981-45c6-b16a-5347101e3d8b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="my_lib" part="ANT">
+      <description>Antenna symbol</description>
+      <fields>
+        <field name="Reference">PAD</field>
+        <field name="Value">ANT</field>
+        <field name="Footprint">lib:PAD1.6mmX3m</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ANT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="C">
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C2-MU</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint">lib:C2_MU5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="CN-1">
+      <fields>
+        <field name="Reference">PAD</field>
+        <field name="Value">CN-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="CN-ICSP">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">CN-ICSP</field>
+        <field name="Footprint">lib:PINHEAD1-PICkit_ICSP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{MCLR}" type="passive"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="PGD" type="passive"/>
+        <pin num="5" name="PGC" type="passive"/>
+        <pin num="6" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="CN-POWER">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">CN-POWER</field>
+        <field name="Footprint">lib:TERMINAL_2P_POWER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="GND" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="CP">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CP</field>
+        <field name="Value">CP</field>
+        <field name="Footprint">lib:CP2_8mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="Crystal">
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Footprint">lib:X_TAL_VT200</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="Jack_EarPhone">
+      <description>3.5mm stereo mini jack with switch MJ-352W-C, AJ-1780</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jack_EarPhone</field>
+        <field name="Footprint">lib:JACK_EarPhone_MJ-352W-C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="L1" type="passive"/>
+        <pin num="3" name="R1" type="passive"/>
+        <pin num="4" name="L2" type="passive"/>
+        <pin num="5" name="R2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="KT0913">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">KT0913</field>
+        <field name="Footprint">lib:SSOP-16_MU_3.9x4.9mm_P0.635mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CH" type="passive"/>
+        <pin num="2" name="DVSS" type="power_in"/>
+        <pin num="3" name="ROUT" type="output"/>
+        <pin num="4" name="LOUT" type="output"/>
+        <pin num="5" name="AVSS" type="power_in"/>
+        <pin num="6" name="AVDD" type="power_in"/>
+        <pin num="7" name="XI/RCLK" type="passive"/>
+        <pin num="8" name="XO" type="passive"/>
+        <pin num="9" name="ENABLE" type="passive"/>
+        <pin num="10" name="AMINN" type="passive"/>
+        <pin num="11" name="AMINP" type="passive"/>
+        <pin num="12" name="RFINP" type="passive"/>
+        <pin num="13" name="RFGND" type="passive"/>
+        <pin num="14" name="SCL" type="bidirectional"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="VOL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="L">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint">lib:L4_MU10mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="LCD_I2C_AQM1602Y-FLW-FBW">
+      <description>Akizuki LCD BackLight 16character x 2line, 41.2mm x 23.07mm</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AQM1602Y-FLW-FBW</field>
+        <field name="Footprint">lib:LCD_AQM1602Y-FLW-FBW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="V0" type="power_in"/>
+        <pin num="2" name="VOUT" type="output"/>
+        <pin num="3" name="CAP1N" type="passive"/>
+        <pin num="4" name="CAP1P" type="passive"/>
+        <pin num="5" name="VDD" type="power_in"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="SDA" type="bidirectional"/>
+        <pin num="8" name="SCL" type="bidirectional"/>
+        <pin num="9" name="~{RST}" type="input"/>
+        <pin num="10" name="A" type="input"/>
+        <pin num="11" name="K" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="NJU72060">
+      <description>Audio amplifier, mono, 0.5W</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NJU72060</field>
+        <field name="Footprint">lib:SOP-8_6x5mm_Pitch1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{ShutDown}" type="passive"/>
+        <pin num="2" name="Bypass" type="passive"/>
+        <pin num="3" name="IN+" type="input"/>
+        <pin num="4" name="IN-" type="input"/>
+        <pin num="5" name="OUTA" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="OUTB" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="NJW4183U3-33B">
+      <description>Power Regulator</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NJW4183U3-33B</field>
+        <field name="Footprint">lib:SOT-89-3_MU_Handsoldering</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vout" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vin" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="PAD">
+      <fields>
+        <field name="Reference">PAD</field>
+        <field name="Value">PAD</field>
+        <field name="Footprint">lib:PAD3mmX5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="PIC16F18326">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PIC16F18326</field>
+        <field name="Footprint">lib:DIP-14_300_MU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="RA5" type="bidirectional"/>
+        <pin num="3" name="RA4" type="bidirectional"/>
+        <pin num="4" name="RA3/MCLR" type="bidirectional"/>
+        <pin num="5" name="RC5" type="bidirectional"/>
+        <pin num="6" name="RC4" type="bidirectional"/>
+        <pin num="7" name="RC3" type="bidirectional"/>
+        <pin num="8" name="RC2" type="bidirectional"/>
+        <pin num="9" name="RC1" type="bidirectional"/>
+        <pin num="10" name="RC0" type="bidirectional"/>
+        <pin num="11" name="RA2" type="bidirectional"/>
+        <pin num="12" name="ICSPCLK/RA1" type="bidirectional"/>
+        <pin num="13" name="ICSPDATA/RA0" type="bidirectional"/>
+        <pin num="14" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="Q_PMOS_GSD">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GSD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="R">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R4-MU</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint">lib:R4_MU8mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="SPEAKER">
+      <fields>
+        <field name="Reference">SP</field>
+        <field name="Value">SPEAKER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="SW_2MS1-T1-B4-VS2-Q-E-S">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_2MS1-T1-B4-VS2-Q-E-S</field>
+        <field name="Footprint">lib:SW_2MS1-T1-B4-VS2-Q-E-S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="my_lib" part="SW_PUSH_2">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH_2</field>
+        <field name="Footprint">lib:SW_PUSH-6mm_AK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="my_lib">
+      <uri>C:\Users\mura01\GoogleDrive\KICAD\lib/mylib20231022.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="CN2" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="CP1" pin="1" pintype="passive"/>
+      <node ref="PAD7" pin="1" pinfunction="P" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="Vout" pintype="power_out"/>
+      <node ref="U3" pin="6" pinfunction="AVDD" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5.0V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="1" pinfunction="VCC" pintype="power_out"/>
+      <node ref="CP2" pin="2" pintype="passive"/>
+      <node ref="PAD6" pin="1" pinfunction="P" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="3" name="/ICSPCLK">
+      <node ref="CN2" pin="5" pinfunction="PGC" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="ICSPCLK/RA1" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/ICSPDATA">
+      <node ref="CN2" pin="4" pinfunction="PGD" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="ICSPDATA/RA0" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/MCLR">
+      <node ref="CN2" pin="1" pinfunction="~{MCLR}" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="RA3/MCLR" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/POWER_AMP">
+      <node ref="U1" pin="1" pinfunction="~{ShutDown}" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="RA5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/POWER_BackLight">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="RA4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/POWER_RADIO_LCD">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="ENABLE" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="RC3" pintype="bidirectional"/>
+      <node ref="U5" pin="5" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="9" name="/SCL">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="RC4" pintype="bidirectional"/>
+      <node ref="U5" pin="8" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/SDA">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pinfunction="RC5" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="CN2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="CP1" pin="2" pintype="passive"/>
+      <node ref="CP2" pin="1" pintype="passive"/>
+      <node ref="PAD8" pin="1" pinfunction="P" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="RFGND" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="DVSS" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="AVSS" pintype="power_in"/>
+      <node ref="U4" pin="14" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="11" pinfunction="K" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J1-GND)">
+      <node ref="J1" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J1-L1)">
+      <node ref="J1" pin="2" pinfunction="L1" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(PAD5-ANT)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="PAD5" pin="1" pinfunction="ANT" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q1-D)">
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(U1-Bypass)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="Bypass" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(U1-IN+)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(U1-IN-)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(U1-OUTA)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="SP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(U1-OUTB)">
+      <node ref="SP1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="24" name="Net-(U3-LOUT)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="LOUT" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(U3-RFINP)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="RFINP" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(U3-ROUT)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="ROUT" pintype="output"/>
+    </net>
+    <net code="27" name="Net-(U3-XI{slash}RCLK)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="XI/RCLK" pintype="passive"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(U3-XO)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="XO" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(U4-RC0)">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="RC0" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(U4-RC1)">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="RC1" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(U4-RC2)">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="RC2" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(U5-A)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U5-CAP1N)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="CAP1N" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(U5-CAP1P)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="CAP1P" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(U5-VOUT)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(U5-~{RST})">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="37" name="unconnected-(CN2-NC-Pad6)">
+      <node ref="CN2" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J1-L2-Pad4)">
+      <node ref="J1" pin="4" pinfunction="L2" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J1-R1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="R1" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J1-R2-Pad5)">
+      <node ref="J1" pin="5" pinfunction="R2" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(PAD1-Pad1)">
+      <node ref="PAD1" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(PAD2-Pad1)">
+      <node ref="PAD2" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(PAD3-Pad1)">
+      <node ref="PAD3" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(PAD4-Pad1)">
+      <node ref="PAD4" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(SW1-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(SW1-Pad4)">
+      <node ref="SW1" pin="4" pinfunction="4" pintype="input+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-AMINN-Pad10)">
+      <node ref="U3" pin="10" pinfunction="AMINN" pintype="passive+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-AMINP-Pad11)">
+      <node ref="U3" pin="11" pinfunction="AMINP" pintype="passive+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U3-CH-Pad1)">
+      <node ref="U3" pin="1" pinfunction="CH" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U3-VOL-Pad16)">
+      <node ref="U3" pin="16" pinfunction="VOL" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U4-RA2-Pad11)">
+      <node ref="U4" pin="11" pinfunction="RA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U5-V0-Pad1)">
+      <node ref="U5" pin="1" pinfunction="V0" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>

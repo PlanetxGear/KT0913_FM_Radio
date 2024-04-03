@@ -1,0 +1,1030 @@
+239766972765757
+lib
+2SJ681
+
+
+0
+3
+3
+lib
+2SJ681_FLAT
+
+
+0
+3
+3
+lib
+7SEG-12.7x19mm
+
+
+0
+10
+10
+lib
+7SEG_12.7x19mm_2
+
+
+0
+10
+10
+lib
+C1_MU
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+C2_MU
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+C2_MU5mm
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+C8_MU
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+CDS_5mm
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+CN_AQM1602Y-RN-GBW
+Akizuki 16Characters x 2Line, 3.3v, I2C interface
+LCD AQM1602Y
+0
+9
+9
+lib
+CN_BME280(I2C)
+AE-BME280, I2C connection
+BME280
+0
+6
+6
+lib
+CN_BME280(SPI)
+AE-BME280, SPI connection
+BME280
+0
+6
+6
+lib
+CN_IV-18-001_plug
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows, iv-18
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+lib
+CN_IV-18-002_socket
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows, iv-18
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+lib
+CP2_5mm-6mm
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+CP2_8mm
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+CP2_10mm
+Condensateur e = 1 pas
+C
+0
+3
+2
+lib
+CP2_12.5mm
+Condensateur e = 1 pas
+C
+0
+3
+2
+lib
+CP2_MU
+Condensateur e = 1 pas
+C
+0
+3
+2
+lib
+CR2032H
+Pin spacing is 22.86 mm(0.9 inch).
+
+0
+2
+2
+lib
+CR2032H_AK
+Pin spacing is 20 mm
+
+0
+2
+2
+lib
+CR2032V
+CR2032 vertical
+
+0
+3
+2
+lib
+C_SE-5R5
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+C_SE-5R5_V
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+D4_MU
+Resitance 4 pas
+R
+0
+2
+2
+lib
+D4_MU8mm
+Resitance 4 pas
+R
+0
+2
+2
+lib
+DIP-4_W10.00mm
+4-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+4
+4
+lib
+DIP-6_W7.50mm
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+6
+6
+lib
+DIP-6__300
+6 pins DIL package, round pads
+DIL
+0
+6
+6
+lib
+DIP-8_300_MU
+8 pins DIL package, round pads
+
+0
+8
+8
+lib
+DIP-14_300_MU
+8 pins DIL package, round pads
+
+0
+14
+14
+lib
+DIP-16_300_MU
+8 pins DIL package, round pads
+
+0
+16
+16
+lib
+DIP-18_300_MU
+8 pins DIL package, round pads
+
+0
+18
+18
+lib
+DIP-28_300_MU
+8 pins DIL package, round pads
+
+0
+28
+28
+lib
+DIP-AE-QFP48PR5
+AKIZUKI, 0.5mm pitch QFP 48-pin conversion board. http://akizukidenshi.com/catalog/g/gP-13520/
+QFP 48-pin
+0
+48
+48
+lib
+Diode_Bridge_DIP-4_W7.50mm_P5.00mm
+4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils)
+DIL DIP PDIP 5.08mm 7.62mm 300mil
+0
+4
+4
+lib
+Diode_Bridge_Round_D9.20mm
+4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils)
+DIL DIP PDIP 5.08mm 7.62mm 300mil
+0
+4
+4
+lib
+ESP-WROOM-02
+
+
+0
+19
+16
+lib
+ESP-WROOM-02_breakout
+
+
+0
+24
+16
+lib
+FUSE_HOLDER_5.2x20mm
+
+
+0
+4
+4
+lib
+HOLE1.2mm
+
+
+0
+0
+0
+lib
+HOLE1.5mm
+
+
+0
+0
+0
+lib
+HOLE2.2mm
+
+
+0
+0
+0
+lib
+HOLE2.8mm
+
+
+0
+0
+0
+lib
+HOLE3.3mm
+
+
+0
+0
+0
+lib
+IV-18
+
+
+0
+22
+22
+lib
+IV-18-002
+
+
+0
+22
+22
+lib
+JACK_EarPhone_MJ-352W-C
+Ear Phone JACK with switch, MJ-352W-C / AJ-1780
+JACK, MJ-352W-C, AJ-1780
+0
+5
+5
+lib
+JACK_EarPhone_MJ-352W-C_R
+Ear Phone JACK with switch, MJ-352W-C / AJ-1780
+JACK, MJ-352W-C, AJ-1780
+0
+10
+5
+lib
+JUMPER1-2
+
+
+0
+2
+2
+lib
+JUMPER1-3
+
+
+0
+3
+3
+lib
+L4_MU
+inductance 4 pas
+L inductance
+0
+2
+2
+lib
+L4_MU9mm
+inductance 4 pas
+L inductance
+0
+2
+2
+lib
+L4_MU10mm
+inductance 4 pas
+L inductance
+0
+2
+2
+lib
+LCD_AQM0802A-RN-GBW
+Akizuki 8Characters x 2Line, 3.3v, I2C interface
+LCD AQM0802A
+0
+9
+9
+lib
+LCD_AQM1602Y-FLW-FBW
+Akizuki 16Characters x 2Line, 3.3v, I2C interface
+LCD AQM1602Y
+0
+11
+11
+lib
+LCD_AQM1602Y-RN-GBW
+Akizuki 16Characters x 2Line, 3.3v, I2C interface
+LCD AQM1602Y
+0
+9
+9
+lib
+LCD_SB1602B
+Strawberry Linux 16Characters x 2Line, 3.3v, I2C interface
+LCD SB1602
+0
+10
+10
+lib
+LCD_Z180SN009
+1.8inch TFT LCD with Carryboard, SPI interface [M-Z18SPI-2PB], ST7735WS controller
+LCD, SPI, ST7735S
+0
+12
+9
+lib
+LD8035E
+
+
+0
+12
+12
+lib
+LD8035E_02
+
+
+0
+12
+12
+lib
+LED-5MM_AK
+LED 5mm - Lead pitch 100mil (2,54mm)
+LED led 5mm 5MM 100mil 2,54mm
+0
+2
+2
+lib
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+lib
+LHL08
+Taiyo Yuden Inductance Power choke coil
+inductance, coil, inductor
+0
+2
+2
+lib
+LHL10
+Taiyo Yuden Inductance Power choke coil
+inductance, coil, inductor
+0
+2
+2
+lib
+LP2950L
+regulator
+regulator 3.3v
+0
+3
+3
+lib
+L_TCV
+Core Master Enterprise, Toroidal Coil, D15mm x W8
+Inductance, coil, inductor
+0
+2
+2
+lib
+MSOP-8_3x3mm_P0.65mm_EP1.8x2.6mm_ThermalVias
+MSOP VSP with Thermal
+MSOP SO
+0
+9
+9
+lib
+PAD1.6mmX3m
+
+
+0
+1
+1
+lib
+PAD1mmX1.5mmX1.5mm
+
+
+0
+1
+1
+lib
+PAD1mmX1.5mmX2.5mm
+
+
+0
+1
+1
+lib
+PAD1mmX2m
+
+
+0
+1
+1
+lib
+PAD1mmX5mmX5mm
+
+
+0
+1
+1
+lib
+PAD2.4x3.8mmX3.0x4.4mm
+Thermal pad for SOP8
+
+0
+1
+1
+lib
+PAD3.7mmX6.6mm_with_PCB-54R(M3)
+
+
+0
+3
+1
+lib
+PAD3mmX5mm
+
+
+0
+1
+1
+lib
+PAD4.3mmX9.0mm
+
+
+0
+1
+1
+lib
+PADSMD0.5mmX2mm
+
+
+0
+1
+1
+lib
+PINHEAD1-2_MU
+
+
+0
+2
+2
+lib
+PINHEAD1-2_MU2
+
+
+0
+2
+2
+lib
+PINHEAD1-3_MU
+
+
+0
+3
+3
+lib
+PINHEAD1-3_MU2
+
+
+0
+3
+3
+lib
+PINHEAD1-3_SERVO-SG90
+
+
+0
+3
+3
+lib
+PINHEAD1-5_MU
+
+
+0
+5
+5
+lib
+PINHEAD1-5_MU2
+
+
+0
+5
+5
+lib
+PINHEAD1-6_MU
+
+
+0
+6
+6
+lib
+PINHEAD1-6_MU2
+
+
+0
+6
+6
+lib
+PINHEAD1-8_MU
+
+
+0
+8
+8
+lib
+PINHEAD1-10_MU
+
+
+0
+10
+10
+lib
+PINHEAD1-FTDI-TTL-232R-3V3
+
+
+0
+6
+6
+lib
+PINHEAD1-PICkit4_ARM
+
+
+0
+8
+8
+lib
+PINHEAD1-PICkit_ICSP
+
+
+0
+6
+6
+lib
+PINHEAD1-PICkit_ICSP_Tin
+
+
+0
+6
+6
+lib
+PINHEAD2x10_Pitch2.54mm
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+lib
+QHP_PlanetxGear
+
+
+0
+0
+0
+lib
+QR_PlanetxGear
+
+
+0
+0
+0
+lib
+R3_MU6mm
+Resitance 3 pas
+R
+0
+2
+2
+lib
+R3_MU7mm
+Resitance 3 pas
+R
+0
+2
+2
+lib
+R4_MU
+Resitance 4 pas
+R
+0
+2
+2
+lib
+R4_MU8mm
+Resitance 4 pas
+R
+0
+2
+2
+lib
+R4_MU9mm
+Resitance 4 pas
+R
+0
+2
+2
+lib
+R4_MU10mm
+Resitance 4 pas
+R
+0
+2
+2
+lib
+S-812C
+regulator 3.3V
+regulator
+0
+3
+3
+lib
+SC-76A
+
+
+0
+2
+2
+lib
+SD_CARD_AE-MICRO-SD-DIP
+
+
+0
+18
+14
+lib
+SD_CARD_microsdSD_HC_Hirose_DM3AT-SF-PEJM5
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
+0
+14
+11
+lib
+SMD_0603_1608_MU_HandSolder
+SMD 0603 (1608 Metric) for Capacitor/Resistor 
+handsolder SMD 1608 Capacitor Resistor 
+0
+2
+2
+lib
+SOIC-28W_7.5x17.9mm_Pitch1.27mm
+28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+28
+28
+lib
+SOP-8_6x5mm_P1.27mm_EP3.0x4.4mm_ThermalVias
+DD Package; 8-Lead Plastic DFN (6mm x 5mm) with Thermal Vias
+dfn sop
+0
+9
+9
+lib
+SOP-8_6x5mm_Pitch1.27mm
+DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)
+dfn sop
+0
+8
+8
+lib
+SOT-23-3_MU_Handsoldering
+3-pin SOT-23 package, Handsoldering
+SOT-23-3 Handsoldering
+0
+3
+3
+lib
+SOT-23-5_MU_HandSoldering
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+lib
+SOT-23-6_MU_Handsoldering
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+6
+lib
+SOT-89-3_MU_Handsoldering
+SOT89-3
+SOT89-3 Housing Handsoldering
+0
+7
+3
+lib
+SOT-89-5_Housing_Handsoldering
+SOT89-5, Housing,http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT89-5 Housing Handsoldering
+0
+9
+5
+lib
+SOT-89-5_MU_Handsoldering
+SOT89-5, Housing,http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT89-5 Housing Handsoldering
+0
+9
+5
+lib
+SP_PKM13EPYH4000
+Piezo speaker D13mm
+PKM13EPYH4000-A0
+0
+2
+2
+lib
+SSOP-16_MU_3.9x4.9mm_P0.635mm
+SSOP16: plastic shrink small outline package; 16 leads; body width 3.9 mm; lead pitch 0.635; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot519-1_po.pdf)
+SSOP 0.635
+0
+16
+16
+lib
+SW_2MS1-T1-B4-VS2-Q-E-S
+
+
+0
+5
+4
+lib
+SW_PUSH-6mm_AK
+
+
+0
+4
+2
+lib
+SW_PUSH-12mm+_AK
+
+
+0
+8
+2
+lib
+SW_PUSH-12mm_AK
+
+
+0
+4
+2
+lib
+SW_PUSH_TVAF06-A020B-R
+TVAF06-A020B-R surface mount push switch
+TVAF06-A020B-R, SW, PUSH,surface mount 
+0
+2
+2
+lib
+SW_TOGGLE_6P_PANEL
+
+
+0
+6
+6
+lib
+Separator_3mm_x_6mm
+
+
+0
+0
+0
+lib
+Separator_4mm_x_25mm
+
+
+0
+0
+0
+lib
+Separator_4mm_x_25mm_02
+
+
+0
+0
+0
+lib
+TERMINAL_2P
+
+
+0
+2
+2
+lib
+TERMINAL_2P_POWER
+
+
+0
+2
+2
+lib
+TERMINAL_3P
+
+
+0
+3
+3
+lib
+TO-220AB
+TRIAC Package
+TRIAC Power Integration Package
+0
+7
+4
+lib
+TO-252-2
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+7
+3
+lib
+TO92
+
+
+0
+3
+3
+lib
+TOP3
+TRIAC Package
+TRIAC Power Integration Package
+0
+9
+4
+lib
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+lib
+TRANS_HP
+
+
+0
+5
+5
+lib
+USB_A
+USB A connector
+USB USB_A
+0
+6
+6
+lib
+USB_A_Mu
+USB A connector
+USB USB_A
+0
+6
+6
+lib
+USB_Mini-B
+USB Mini-B 5-pin SMD connector
+USB USB_B USB_Mini connector
+0
+9
+6
+lib
+USB_Mini-B_ThroughHole
+USB Mini-B 5-pin SMD connector
+USB USB_B USB_Mini connector
+0
+9
+6
+lib
+USB_micro_for_POWER
+MRUSB-2B-D14NI-S306
+USB USB_B USB_micro
+0
+4
+4
+lib
+VR_ON_BOARD
+
+
+0
+5
+5
+lib
+VR_TSR-3386K
+VR ON Board
+3386K-EY5
+0
+3
+3
+lib
+X_CERA_LOCK
+Ceramic Resonater
+Ceramic Resonater
+0
+3
+3
+lib
+X_TAL_VT200
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+X_TAL_VT200_Horizontal
+Condensateur e = 1 pas
+C
+0
+2
+2
+lib
+ZNR_W5.0mm
+Condensateur e = 1 pas
+C
+0
+2
+2
